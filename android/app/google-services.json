@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "284521756634",
+    "firebase_url": "https://bricola-a2662.firebaseio.com",
+    "project_id": "bricola-a2662",
+    "storage_bucket": "bricola-a2662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284521756634:android:3a46f594b91bfe94c232e3",
+        "android_client_info": {
+          "package_name": "com.bricola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284521756634-r04p3vkafqmvlg68af9lv0tt1mb13g82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bricola",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "284521756634-9j3qca3viecd38igukh4m2q48go6vvq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Ljs3yn0GbNlNct6JXXhfIRwFTZwE6jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284521756634-9j3qca3viecd38igukh4m2q48go6vvq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284521756634:android:9cb0c5eb7bf942abc232e3",
+        "android_client_info": {
+          "package_name": "com.bricola.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284521756634-jq7n4bjhq205r18oa5u30f0ubrt19enr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bricola.client",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "284521756634-9j3qca3viecd38igukh4m2q48go6vvq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Ljs3yn0GbNlNct6JXXhfIRwFTZwE6jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284521756634-9j3qca3viecd38igukh4m2q48go6vvq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284521756634:android:1f0436eca029abd1c232e3",
+        "android_client_info": {
+          "package_name": "com.bricola.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284521756634-1d0dhoopko689ntskachq4sfmod4mk9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bricola.partner",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "284521756634-9j3qca3viecd38igukh4m2q48go6vvq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Ljs3yn0GbNlNct6JXXhfIRwFTZwE6jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284521756634-9j3qca3viecd38igukh4m2q48go6vvq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
